@@ -1,3 +1,37 @@
-.navbar{
-	width: 100%;
+.carousel-control {
+  padding-top:10%;
+  width:5%;
 }
+
+.container1{
+	background-color: #F3E9D2;
+}
+
+
+
+.container2{
+	background-color: #C6DABF;
+}
+
+.container3{
+	background-color: #88D498;
+}
+
+h1{
+	font-family: 'Barrio', cursive;
+}
+
+@media (min-width: 768px) {
+ .navbar-brand {
+  position: absolute;
+  width: 100%;
+  left: 0;
+  top: 0;
+  text-align: center;
+  margin: auto;
+  font-family: 'Baloo+Bhaina',cursive;
+  font-size: 25px;
+ 	
+ }
+}
+
